@@ -1,0 +1,7 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">EEX Watcher</string>
+    <string name="getData">get Data</string>
+    <string name="addData">add Date</string>
+    <string name="addDateTemplate">set a Date...</string>
+</resources>
