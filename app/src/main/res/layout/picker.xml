@@ -9,7 +9,7 @@
     android:isScrollContainer="false"
     android:nestedScrollingEnabled="false"
     android:theme="@style/AppTheme"
-    tools:context=".MainActivity">
+    tools:context="de.xtlk.eexWatcher.MainActivity">
 
     <DatePicker
         android:id="@+id/pickCal"
